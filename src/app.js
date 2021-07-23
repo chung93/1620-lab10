@@ -3,7 +3,7 @@ const justiceLeague = [
   { name: "Dorian Chase", age: 47, alias: "Vigilante" },
   { name: "Diana Prince", age: 140, alias: "Wonder Woman" },
 ]
-// thought about iterating and adding to a card but I... wasn't sure how to pull it off
+//thought about iterating and adding to a card but I... wasn't sure how to pull it off
 
 
 //step one create a new feature branch to work from
@@ -41,8 +41,8 @@ btnv.onclick = console.log(cardv);
 //it's so redundant!!!!!! ugly!!! and it probably won't work at the end of the day!
 
 function replaceInfo() {
-  if 
+  document.remove(log)
 }
-
+//man.
 
 //step four add just enough styling to make your app look a little nicer, without removing any of the existing styling.
